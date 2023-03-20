@@ -1,0 +1,14 @@
+1) judge-1377884607_tweet_product_company
+
+2) twcs
+
+3) txtfile1_csv
+
+
+Link:
+
+judge-1377884607_tweet_product_company => https://www.figure-eight.com/data-for-everyone/ access date 24-01-2019
+
+twcs => https://www.kaggle.com/soaxelbrooke/customer-sentiment-by-brand (from sir)
+
+https://www.kaggle.com/kazanova/sentiment140 (from sir)
